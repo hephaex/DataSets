@@ -18,3 +18,5 @@ ESD Data Science Data
 ## pollster_cleaned_2002_2008.csv
 
 ## pollster_cleaned_2010.csv
+
+## pollster_cleaned_2012.csv
