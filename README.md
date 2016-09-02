@@ -14,3 +14,5 @@ ESD Data Science Data
 ## movies.dat
 
 ## mtcars.csv
+
+## pollster_cleaned_2002_2008.csv
