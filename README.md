@@ -11,6 +11,8 @@ EMA Data Science Data
 
 ## movies.dat
 
+## movie_lines.txt
+* movie conversation 
 ## mtcars.csv
 
 ## pollster_cleaned_2002_2008.csv
