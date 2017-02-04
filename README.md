@@ -1,7 +1,7 @@
 # DS_data
+/Neuromancer.kr/
 
-
-EMA Data Science Data
+* Data Science Data
 
 ## Diamond.csv
 
