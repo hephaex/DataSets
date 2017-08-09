@@ -1,5 +1,7 @@
 # DS_data
-/Neuromancer.kr/
+A various data repository. 
+ 
+community name: /Neuromancer.kr/
 
 * Data Science Data
 
