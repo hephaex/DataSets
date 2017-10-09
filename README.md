@@ -1,7 +1,5 @@
 # DataSets
-[![License](https://img.shields.iobadge/license-GPL-blue.svg)]
-
-(https://raw.githubusercontent.com/hephaex/DataSets/master/LICENSE)
+[![License](https://img.shields.iobadge/license-GPL-blue.svg)](https://raw.githubusercontent.com/hephaex/DataSets/master/LICENSE)
 
 A various data sets for Machine Learning, Artificial Intelligence, and Data Science.
 Maintained by Community: https://www.Neuromancer.kr/
