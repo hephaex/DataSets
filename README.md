@@ -229,3 +229,4 @@ refer from https://github.com/rudvlf0413/Dataset.git
 * pollster_cleaned_2002_2008.csv
 * pollster_cleaned_2010.csv
 * pollster_cleaned_2012.csv
+* kospi_kospi.csv
