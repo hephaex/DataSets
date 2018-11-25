@@ -18,6 +18,10 @@ Maintained by Community: https://www.Neuromancer.kr/
 refer from https://github.com/rudvlf0413/Dataset.git
 
 ### Classification or Recognition or Generative
+
+* tencent-ml-images
+  - https://github.com/Tencent/tencent-ml-images.git
+
 * Coil-20
   - <http://www.cs.columbia.edu/CAVE/software/softlib/coil-20.php>
 * MS COCO
