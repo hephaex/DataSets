@@ -18,6 +18,9 @@ Maintained by Community: https://www.Neuromancer.kr/
 ## Image
 refer from https://github.com/rudvlf0413/Dataset.git
 
+## TTS 
+Dataset: [http://www.openslr.org/60/](http://www.openslr.org/60/)
+
 ### Classification or Recognition or Generative
 
 * tencent-ml-images
