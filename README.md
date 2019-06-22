@@ -6,7 +6,10 @@ Maintained by Community: https://www.Neuromancer.kr/
 ## Machine Learning Data
 * Pix2Pix
  - source location: https://people.eecs.berkeley.edu/~tinghuiz/projects/pix2pix/datasets/
- 
+* 한국거래소(KRX)에서 일자별 시가총액 순위 데이터
+1995-05-02~2019-04-30 (24년간), 1천만건 (CSV)
+https://github.com/FinanceData/marcap.git
+
 * https://www.kaggle.com/c/aerial-cactus-identification
 ### Pix2Pix
 * [cityscapes](https://people.eecs.berkeley.edu/~tinghuiz/projects/pix2pix/datasets/cityscapes.tar.gz)
