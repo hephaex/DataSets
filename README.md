@@ -24,6 +24,15 @@ refer from https://github.com/rudvlf0413/Dataset.git
 ## TTS 
 Dataset: [http://www.openslr.org/60/](http://www.openslr.org/60/)
 
+## Youtube
+* https://research.google.com/youtube8m/index.html?fbclid=IwAR3JtSscHE1npIsYNwLpJtnSN_Oym_zO6TJTMSoVPv6u6FogzjunKVisyHI
+  - Google AI 에서 기존에 알려진 YouTube-8M의 일부를 확장하여, segment level의 annotation이 제공되는 데이터셋
+  - 기존의 YouTube-8M에서는 비디오/프레임 level의 머신이 생성한 레이블을 제공한 반면, 이번에는 segment level의 사람이 매뉴얼로 검증한 레이블이 제공
+   * 1,000개의 클래스에 대하여, 
+   * 237K 개의 레이블 (사람이 매뉴얼하게)
+   * 하나의 비디오당 평균 5개의 segments
+   * 하나의 segment당, 비디오에서 무작위로 추출된  5초 구
+   * annotation 포맷은 기존의 YouTube-8M과 유사합니다. (segment의 시작과 끝, 그리고 각 segment당 레이블 정보)
 ### Classification or Recognition or Generative
 
 * tencent-ml-images
