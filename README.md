@@ -23,6 +23,10 @@ https://github.com/FinanceData/marcap.git
 ## Image
 refer from https://github.com/rudvlf0413/Dataset.git
 
+* Dog Breed Identification dataset 
+  - The dataset is designed for multiclass classification problem as it has 120 breeds of dogs. It
+  - https://www.kaggle.com/c/dog-breed-identification/data
+
 ## TTS 
 Dataset: [http://www.openslr.org/60/](http://www.openslr.org/60/)
 
