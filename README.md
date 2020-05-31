@@ -20,6 +20,7 @@ https://github.com/FinanceData/marcap.git
 
 ## geo
 兵庫県_全域数値地形図_ポータル（2010年度～2018年度）https://www.geospatial.jp/ckan/dataset/2010-2018-hyogo-geo-potal
+
 ## Image
 refer from https://github.com/rudvlf0413/Dataset.git
 
@@ -39,6 +40,7 @@ Dataset: [http://www.openslr.org/60/](http://www.openslr.org/60/)
    * 하나의 비디오당 평균 5개의 segments
    * 하나의 segment당, 비디오에서 무작위로 추출된  5초 구
    * annotation 포맷은 기존의 YouTube-8M과 유사합니다. (segment의 시작과 끝, 그리고 각 segment당 레이블 정보)
+   
 ### Classification or Recognition or Generative
 
 * tencent-ml-images
