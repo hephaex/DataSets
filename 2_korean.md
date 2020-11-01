@@ -60,19 +60,14 @@ NC-SA 4.0. You CANNOT use this dataset for ANY COMMERCIAL purpose. Otherwise, yo
 Citation
 
 If you want to cite KSS Dataset, please refer to this:
-
 Kyubyong Park, KSS Dataset: Korean Single speaker Speech Dataset, https://kaggle.com/bryanpark/korean-single-speaker-speech-dataset, 2018
 
 Reference
-
 Check out this for a project using this KSS Dataset.
 
 Contact
-
 You can contact me at kbpark.linguist@gmail.com.
-
 April, 2018.
-
 Kyubyong Park
 
 ### reference 
