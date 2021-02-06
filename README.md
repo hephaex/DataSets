@@ -45,7 +45,7 @@ Dataset: [http://www.openslr.org/60/](http://www.openslr.org/60/)
 
 * tencent-ml-images
   - https://github.com/Tencent/tencent-ml-images.git
-
+* https://github.com/NVlabs/ffhq-dataset
 * Coil-20
   - <http://www.cs.columbia.edu/CAVE/software/softlib/coil-20.php>
 * MS COCO
