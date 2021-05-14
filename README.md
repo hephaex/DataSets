@@ -6,6 +6,7 @@ Maintained by Community: https://www.Neuromancer.kr/
 ## Machine Learning Data
 * Pix2Pix
  - source location: https://people.eecs.berkeley.edu/~tinghuiz/projects/pix2pix/datasets/
+
 * 한국거래소(KRX)에서 일자별 시가총액 순위 데이터
 1995-05-02~2019-04-30 (24년간), 1천만건 (CSV)
 https://github.com/FinanceData/marcap.git
@@ -23,7 +24,6 @@ https://github.com/FinanceData/marcap.git
 
 ## Image
 refer from https://github.com/rudvlf0413/Dataset.git
-
 * Dog Breed Identification dataset 
   - The dataset is designed for multiclass classification problem as it has 120 breeds of dogs. It
   - https://www.kaggle.com/c/dog-breed-identification/data
@@ -42,7 +42,6 @@ Dataset: [http://www.openslr.org/60/](http://www.openslr.org/60/)
    * annotation 포맷은 기존의 YouTube-8M과 유사합니다. (segment의 시작과 끝, 그리고 각 segment당 레이블 정보)
    
 ### Classification or Recognition or Generative
-
 * tencent-ml-images
   - https://github.com/Tencent/tencent-ml-images.git
 * https://github.com/NVlabs/ffhq-dataset
