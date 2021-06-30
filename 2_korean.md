@@ -59,7 +59,6 @@ License
 NC-SA 4.0. You CANNOT use this dataset for ANY COMMERCIAL purpose. Otherwise, you can freely use this.
 
 Citation
-
 If you want to cite KSS Dataset, please refer to this:
 Kyubyong Park, KSS Dataset: Korean Single speaker Speech Dataset, https://kaggle.com/bryanpark/korean-single-speaker-speech-dataset, 2018
 
@@ -77,5 +76,3 @@ reference: https://www.kaggle.com/bryanpark/korean-single-speaker-speech-dataset
 
 ### link
 [link](https://www.kaggle.com/bryanpark/korean-single-speaker-speech-dataset/downloads/korean-single-speaker-speech-dataset.zip/2)
-
-
