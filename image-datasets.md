@@ -36,3 +36,9 @@ Maintained by Community: https://www.Neuromancer.kr/
 * PASCAL 2012 Dataset (Classification & Detection)
   - <http://host.robots.ox.ac.uk/pascal/VOC/voc2012/index.html#data>
 
+* Inter4K 
+  - https://drive.google.com/u/0/uc?id=1YNdzhk0mxFln9_2MetHF1cJIsoeVCskh&export=download
+  - Inter4K v1
+    - 1K video clips (5s.)
+    - 4K video quality 60fps
+    - Supporting scripts are found at GitHub [link](https://github.com/alexandrosstergiou/Inter4K)
