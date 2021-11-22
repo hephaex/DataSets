@@ -35,9 +35,11 @@ Maintained by Community: https://www.Neuromancer.kr/
   - <http://biometrics.idealtest.org/index.jsp>
 * PASCAL 2012 Dataset (Classification & Detection)
   - <http://host.robots.ox.ac.uk/pascal/VOC/voc2012/index.html#data>
-
 * Inter4K 
-  - https://drive.google.com/u/0/uc?id=1YNdzhk0mxFln9_2MetHF1cJIsoeVCskh&export=download
+  - Inter4K is a benchmark dataset for video interpolation and super-resolution. It scales over multiple video resolutions and frame rates with the goal of creating challenging benchmarks. Inter4K provides 1K video with a 80-10-10 train-validation-test split. All videos have durations of 5 seconds for standardized benchmarking.
+  - AdaPool: Exponential Adaptive Pooling for Information-Retaining Downsampling 
+insert_drive_file
+  - download link https://drive.google.com/u/0/uc?id=1YNdzhk0mxFln9_2MetHF1cJIsoeVCskh&export=download
   - Inter4K v1
     - 1K video clips (5s.)
     - 4K video quality 60fps
