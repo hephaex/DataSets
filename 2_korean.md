@@ -4,8 +4,6 @@
 KSS Dataset: Korean Signle Speaker Dataset
 - by Kyubyoung Park
 
-
-
 https://www.kaggle.com/bryanpark/korean-single-speaker-speech-dataset/version/2#
 
 ```txt
