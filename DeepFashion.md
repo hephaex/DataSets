@@ -5,7 +5,8 @@
     - 2016-08-08 Attribute Prediction Benchmark has been released. 
     - 2016-07-29 If Dropbox are not accessable, please download the dataset using Google Drive or Baidu Drive.
     - 2016-07-27 The benchmarks of “Fashion Landmark Detection” has been released. 
-    - 2016-07-18 The “In-shop Clothes Retrieval Benchmark” and “Consumer-to-shop Clothes Retrieval Benchmark” have been released. 
+    - 2016-07-18 The “In-shop Clothes Retrieval Benchmark” and “Consumer-to-shop Clothes Retrieval Benchmark” have been released.
+    - 
   * Descriptions
     - We contribute DeepFashion database, a large-scale clothes database, which has several appealing properties:
     - First, DeepFashion contains over 800,000 diverse fashion images ranging from well-posed shop images to unconstrained consumer photos.
